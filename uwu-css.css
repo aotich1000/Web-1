@@ -1,0 +1,79 @@
+.logo{
+    width:  150px;
+    height: 150px;     
+}
+.logofield{
+    display: flex;
+}
+.hellofield{
+    float: left;
+}
+.khutimkiem{
+    width: 200px;
+    height: 200px;    
+}
+
+.abc{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 10px;
+    margin-left: 80px;
+}
+
+.search-box{
+    float: left;
+    padding: 6px;
+    margin-top: 70px;
+    margin-bottom:70px;
+    margin-right: 70px;
+    margin-left: 80px;
+    border: none;  
+    cursor: pointer; 
+}
+
+.search-box p{
+    margin-bottom: 1px;
+}
+.search-box p:hover{
+    color: azure;
+    margin-bottom: 1px;
+}
+.search-box button:hover {
+    background: gray;      
+  }
+
+.search-box input{
+    width: 550px;
+}
+
+.login{
+    float: right;
+}
+.login p{
+    margin-bottom: 1px;
+}
+.login button{
+    background-color:  #f2f2f2;
+    border: none;
+}
+
+.reg{
+    float: right;
+} 
+
+.reg p{
+    margin-bottom: 1px;
+}
+
+.reg button{
+    background-color:  #f2f2f2;
+    border: none;
+}
+.content{
+    margin-left: 11%;
+    margin-right: 11%;
+}
+.myContainer {
+   align-items: baseline;
+}
+}

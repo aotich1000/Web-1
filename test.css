@@ -1,0 +1,250 @@
+.image img{
+    height: 200px;
+    width: 100%;
+}
+.carousel-control-prev-icon {
+    background-image: url(Sting-box.jpg);
+    width: 32px;
+    height: 32px;
+}
+.carousel-control-next-icon {
+    background-image: url(mirinda-cream-soda-box.jpg);
+    width: 32px;
+    height: 32px;
+}
+.fmenu{
+    position: fixed;
+    max-width: 100%;
+    z-index: 1000;
+}
+.ccontain{
+    position: relative;
+    z-index: 1;
+    clear: both;
+}
+.bg-nen{
+    background-color: #e9eff5 !important;
+}
+.tensanphamm{
+    margin-left: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.giaa{
+    margin-left: 440px;
+    font-weight: bold;
+    margin-top: -40px;
+    font-size: 20px;
+}
+.solg{
+    margin-left: 700px;
+    font-weight: bold;
+    margin-top: -40px;
+    font-size: 20px;
+}
+.thanhtienn{
+    margin-left: 985px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -40px;
+}
+.gh1{
+    position: absolute;
+    width: 1200px;
+    height: 300px;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.gh1sp{
+    position: absolute;
+    margin-top:20px;
+    margin-left: 0px;
+    width: 200px;
+    height: 230px;
+}
+.gh1sp img{
+    position: absolute;
+    width:200px;
+    height:200px;
+    margin-left: 0px;
+}
+.gh1sp p{
+    position: absolute;
+    width:200px;
+    height:200px;
+    margin-left: 50px;
+    margin-top: 210px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.gia1{
+    position: absolute;
+    margin-left: 420px;
+    margin-top: 150px;
+    font-size: 24px;
+}
+.sl1{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 170px;
+}
+.sl1 button{
+    background-color: orange;
+    border : 1px solid black;
+}
+.sl2 button{
+    background-color: orange;
+    border : 1px solid black;
+}
+.sl1 button:hover{
+    background-color: white;
+}
+.sl2 button:hover{
+    background-color: white;
+}
+.sl1 input{
+    text-align: center;
+}
+.sl2 input{
+    text-align: center;
+}
+.tt1{
+    position: absolute;
+    margin-left: 990px;
+    margin-top: 150px;
+    font-size: 24px;
+}
+.bt1{
+    position: absolute;
+    margin-left: 940px;
+    margin-top: 170px;
+}
+.bt2{
+    position: absolute;
+    margin-left: 970px;
+    margin-top: 170px;
+}
+.hrgh{
+    position: absolute;
+    margin-top: 330px;
+    width: 1150px;
+    margin-left: 50px;
+}
+/* sp2 */
+.gh2{
+    position: absolute;
+    width: 1200px;
+    height: 300px;
+    margin-top: 330px;
+    margin-left: 50px;
+}
+.gh2sp{
+    position: absolute;
+    margin-top:20px;
+    margin-left: 0px;
+    width: 200px;
+    height: 230px;
+}
+.gh2sp img{
+    position: absolute;
+    width:200px;
+    height:200px;
+    margin-left: 0px;
+}
+.gh2sp p{
+    position: absolute;
+    width:200px;
+    height:200px;
+    margin-left: 20px;
+    margin-top: 210px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+.gia2{
+    position: absolute;
+    margin-left: 420px;
+    margin-top: 420px;
+    font-size: 24px;
+}
+.sl2{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 440px;
+}
+.tt2{
+    position: absolute;
+    margin-left: 990px;
+    margin-top: 420px;
+    font-size: 24px;
+}
+.bt3{
+    position: absolute;
+    margin-left: 940px;
+    margin-top: 440px;
+}
+.bt4{
+    position: absolute;
+    margin-left: 970px;
+    margin-top: 440px;
+}
+.hrgh1{
+    position: absolute;
+    margin-top: 60px;
+    width: 1150px;
+    margin-left: 50px;
+}
+.hrgh2{
+    position: absolute;
+    margin-top: 590px;
+    width: 1150px;
+    margin-left: 50px;
+}
+.ttmh button{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 50px;
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color:white;
+    background-color: #07807B;
+    text-align: center;
+    cursor: pointer;
+}
+.ttien p{
+    position: absolute;
+    margin-top: 610px;
+    margin-left: 980px;
+    font-size: 20px;
+    font-weight: bold;
+    height: 30px;
+    width: 200px;
+}
+.ttoan button{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 860px;
+    color:white;
+    background-color: green;
+    padding: 12px;
+    text-align: center;
+    outline: 0;
+    cursor: pointer;
+    border: none;
+}
+.thgiohang
+{
+
+    display: none;
+    position: absolute;
+    margin-top: 200px;
+}
+.giohang
+{
+    position: relative;
+    
+}
+
