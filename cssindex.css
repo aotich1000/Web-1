@@ -1,10 +1,11 @@
- 
+  
 *{
     margin:0;
     padding:0;
     border:none;
     font-family: 'Open Sans', sans-serif;
 }
+
 body {
     overflow: hidden;
     background-color: #ededed;
@@ -19,7 +20,7 @@ body {
     border: 1px solid #80808000;
     grid-column: 6/9;
     grid-row: 3;
-    height: 600px;
+    height: 100%;
     width: 300px;
     display: flex;
     flex-direction: column;
@@ -61,7 +62,8 @@ input#submit {
     width: 50%;
     border-radius: 10px;
     border: none;
-    position: absolute;
+    position: relative;
+    margin-top: 40px;
     bottom: 10px;
     cursor: pointer;
     background: linear-gradient(to right, #fc00ff, #00dbde);
