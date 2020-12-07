@@ -76,10 +76,17 @@
 .myContainer {
    align-items: baseline;
 }
-.title-sp h{
+.mytitle h6{
     margin-top: 50px;
     margin-bottom: 50px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.6em;
-     text-align: center;
+    text-align: center;
+}
+.fieldCarolel {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.{
+    margin-left: 15px;
 }
